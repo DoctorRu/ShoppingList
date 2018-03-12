@@ -1,9 +1,19 @@
-#Shopping List
+# Shopping List
 ## Ionic 3 / Firebase
 
-Create
+Notes: 
+First of all go to Firebase site and create a Realtime Database and change the rules to
 
-	/keys/firebase/firebase.credentials.ts
+	{
+	  "rules": {
+	    ".read": "true",
+	    ".write": "true"
+	  }
+	}
+
+then create 
+
+	src/keys/firebase/firebase.credentials.ts
 	
 with your firebase database details:
 
@@ -17,3 +27,4 @@ with your firebase database details:
 			storageBucket: "<your storageBucket>",
 			messagingSenderId: "<your messagingSenderId>"
 		};
+
