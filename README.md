@@ -28,3 +28,5 @@ with your firebase database details:
 			messagingSenderId: "<your messagingSenderId>"
 		};
 
+### Run
+	ionic lab
