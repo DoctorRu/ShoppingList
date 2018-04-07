@@ -3,14 +3,11 @@
 
 ## Screenshots
 
-![alt tag](https://raw.githubusercontent.com/DoctorRu/shoppinglist/master/screenshots/01.jpg)
-![alt tag](https://raw.githubusercontent.com/DoctorRu/shoppinglist/master/screenshots/02.jpg)
-![alt tag](https://raw.githubusercontent.com/DoctorRu/shoppinglist/master/screenshots/03.jpg)
-![alt tag](https://raw.githubusercontent.com/DoctorRu/shoppinglist/master/screenshots/04.jpg)
+![alt tag](https://raw.githubusercontent.com/DoctorRu/ShoppingList/master/screenshots/01.jpg)
+![alt tag](https://raw.githubusercontent.com/DoctorRu/ShoppingList/master/screenshots/02.jpg)
+![alt tag](https://raw.githubusercontent.com/DoctorRu/ShoppingList/master/screenshots/03.jpg)
 
-
-
-Notes: 
+Notes:
 First of all go to Firebase site and create a Realtime Database and change the rules to
 
 	{
